@@ -1,0 +1,14 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 11.08.2010 16:08:57
+
+newmtl tectona_grasshopper_square_table_mtl_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5922 0.7451 0.6392
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000

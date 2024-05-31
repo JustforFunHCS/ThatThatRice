@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8aa1849adcf30d5428c01e258a5429de, type: 3}
+  m_Name: Stewed Bitter Gourd with Pork Ribs
+  m_EditorClassIdentifier: 
+  mName: "\u6392\u9AA8\u7086\u82E6\u74DC"
+  mFoodMaterial: {fileID: 2100000, guid: b589b4d69ebf4994bb57555307f87e8d, type: 2}
